@@ -44,6 +44,14 @@ Model Evaluation
 
 7.3 - TEST CASE 3
 
-Conclusions
+## Challenges:
 
+Limited number of image classes and training samples.
 
+Infinite irregularities in handwritten characters.
+
+Misinterpretation of characters lead to incorrect evaluation.
+
+## CONCLUSION
+
+The final model was able to correctly identify and evaluate most of the samples, but on some occasions it failed to identify one or more characters due to the lack of training samples.
