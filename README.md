@@ -1,4 +1,6 @@
 # HANDWRITTEN-NUMERICAL-SOLVER
+![HandwrittenImage](https://user-images.githubusercontent.com/85668824/122977719-5bf01700-d3b3-11eb-82aa-d01260c9a151.jpg)
+
 
 ## Introduction
 
